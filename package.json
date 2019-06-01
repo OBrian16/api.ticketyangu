@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/OBrian16/api.ticketyangu/issues"
   },
-  "homepage": "https://github.com/OBrian16/api.ticketyangu#readme"
+  "homepage": "https://github.com/OBrian16/api.ticketyangu#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
 }
