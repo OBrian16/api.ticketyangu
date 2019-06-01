@@ -1,0 +1,19 @@
+{
+  "name": "api.ticketyangu",
+  "version": "1.0.0",
+  "description": "ticket yangu backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OBrian16/api.ticketyangu.git"
+  },
+  "author": "Brian Ogwel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OBrian16/api.ticketyangu/issues"
+  },
+  "homepage": "https://github.com/OBrian16/api.ticketyangu#readme"
+}
